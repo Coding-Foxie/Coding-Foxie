@@ -13,17 +13,13 @@ Welcome to my GitHub profile! I'm a software developer with a passion for learni
 - Learning more about full-stack web development.
 - Contributing to open-source projects.
 
-<!--
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: [HeinzZaw215z@gmail.com](mailto:HeinzZaw215z@gmail.com)
+- LinkedIn: [Heinz Zaw](https://www.linkedin.com/in/heinz-zaw-463b48314/)
 
 ## 🚀 My Projects
 Check out some of my projects:
-- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
--->
+- [Mini Web Projects](https://github.com/Heinzaw215/WebProjects): The mini web projects that i improving my skill.
 
 ## ⚡ Fun Fact
 I love coding and playing video games in my free time! 🎮
