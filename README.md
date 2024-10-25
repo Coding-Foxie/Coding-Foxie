@@ -28,7 +28,7 @@ Check out some of my projects:
 ## ⚡ Fun Fact
 I love coding and playing video games in my free time! 🎮
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Heinzaw215&color=blue)
 
 <!--
 **Heinzaw215/Heinzaw215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
