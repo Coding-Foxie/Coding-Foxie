@@ -57,9 +57,6 @@ Besides coding, I enjoy chilling out with 🎮 **video games**, and exploring cr
       <img src="https://github-readme-stats.vercel.app/api?username=Heinzaw215&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heinzaw215&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heinzaw215&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
