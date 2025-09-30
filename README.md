@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hein Htet Zaw
+# 👋 Hi, I'm Coding Foxie
 
 Welcome to my GitHub profile!  
 I'm a passionate **software developer** who loves exploring new technologies and turning ideas into reality through code. 🚀
